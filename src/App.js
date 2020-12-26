@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <h1> Reactjs web site </h1>
       <h2>Author : Akshay Jadhav</h2>
-      <img src={logo} alt="profile-image"/>
+      <img className="App-logo" src={logo} alt="profile-image"/>
     </div>
   );
 }
